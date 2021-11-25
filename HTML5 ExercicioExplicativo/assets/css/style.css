@@ -1,110 +1,109 @@
-    /* Estilos da página index.html*/
+        /* Estilos da página index.html*/
 
-    .center {
+        .center {
 
-    text-align: center;
+        text-align: center;
 
-    }
+        }
 
-    .justify {
+        .justify {
 
-        text-align: justify;
-    }
-
-
-    .container {
-
-        display: flex;
-        flex-flow: row;
-        justify-content: center;
-        align-items: center;
-    }
-
-    #menu li{
-
-        display: inline;
-        padding: 18px;
-    }
-
-    #menu li a {
-
-        text-decoration: none;
-        color: black;
-        font-size: 20px;
-    }
-
-    #menu li a:hover {
-
-        color:crimson;
-    }
-
-    .p-30 {
-
-        padding: 40px;
-    }
-
-    .br-50 {
-
-        border-radius: 50%;
-
-    }
-
-    .tm-social {
-
-        width: 50px;
-        height: 50px;
-    }
-
-    .mb-50 {
-
-        margin-bottom: 50px;
-    }
-    .font-externa {
-
-        font-family: Rubik;
-    }
-
-    .font-externa2 {
-
-        font-family: RubikItalic;
-    }
+            text-align: justify;
+        }
 
 
-    .icone {
+        .container {
 
-        display: flex;
-        flex-flow: row;
-        justify-content: left;
-        align-items: baseline;
-    }
+            display: flex;
+            flex-flow: row;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #menu li{
+
+            display: inline;
+            padding: 18px;
+        }
+
+        #menu li a {
+
+            text-decoration: none;
+            color: black;
+            font-size: 20px;
+        }
+
+        #menu li a:hover {
+
+            color:crimson;
+        }
+
+        .p-30 {
+
+            padding: 40px;
+        }
+
+        .br-50 {
+
+            border-radius: 50%;
+
+        }
+
+        .tm-social {
+
+            width: 50px;
+            height: 50px;
+        }
+
+        .mb-50 {
+
+            margin-bottom: 50px;
+        }
+        .font-externa {
+
+            font-family: Rubik;
+        }
+
+        .font-externa2 {
+
+            font-family: RubikItalic;
+        }
 
 
-    /* Estilos da página contato.html*/
+        .icone {
 
-    .ml-50 {
-
-        margin-left: 50px;
-    }
-
-
-
+            display: flex;
+            flex-flow: row;
+            justify-content: left;
+            align-items: baseline;
+        }
 
 
-    /*Estilos da página midia*/
+        /* Estilos da página contato.html*/
+
+        .ml-50 {
+
+            margin-left: 50px;
+        }
 
 
 
 
-    /* Backgrounds das paginas*/
-    body {
 
-        background-image: url(../img/backgroundImg.jpg);
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: center center;
+        /*Estilos da página midia*/
 
-    }
 
+
+
+        /* Backgrounds das paginas*/
+        body {
+
+            background-image: url(../img/backgroundImg.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center center;
+
+        }
 
 
 
